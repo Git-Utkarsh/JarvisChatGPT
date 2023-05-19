@@ -30,10 +30,6 @@ You will also need an OpenAI API key to access the ChatGPT model. Make sure to s
 
 You can modify the behavior of the chatbot by adjusting the following parameters in the `main.py` script:
 
-```python
-# Set the language for speech recognition and text-to-speech
-LANGUAGE = "en-US"
-
 ## Limitations
 
 - The accuracy of speech recognition depends on various factors, such as microphone quality and ambient noise. For optimal results, it is recommended to use a good quality microphone and minimize background noise during interactions with the chatbot.
