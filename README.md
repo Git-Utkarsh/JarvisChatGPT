@@ -1,5 +1,5 @@
 # JarvisChatGPT 
-<img src="https://uploads-ssl.webflow.com/5b105a0c66f2f636c7884a17/64063dbcad97bd421b437096_chatgpt.jpg" width="400" height="200" alt="Image Description"><img src="https://uploads-ssl.webflow.com/5b105a0c66f2f636c7884a17/64063dbcad97bd421b437096_chatgpt.jpg" width="400" height="200" alt="Image Description">
+<img src="https://uploads-ssl.webflow.com/5b105a0c66f2f636c7884a17/64063dbcad97bd421b437096_chatgpt.jpg" width="400" height="200" alt="Image Description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png" width="400" height="200" alt="Image Description">
 
 # Speech Recognition and Text-to-Speech with ChatGPT
 
@@ -8,7 +8,6 @@ This Python project utilizes OpenAI's ChatGPT, speech recognition, and pyttsx3 m
 ## Prerequisites
 
 To run this project, you need to have the following installed:
-![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png)
 
 - Python 3.x
 - OpenAI Python library
